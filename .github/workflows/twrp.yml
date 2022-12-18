@@ -11,7 +11,7 @@ env:
   # (required) device codename i.e: sweet mojito.. 
   DEVICE: owens
   # (required) device tree link with branch if exists
-  DT_LINK: https://github.com/moto-msm8937-archive/android_device_motorola_owens.git -b twrp-7.1
+  DT_LINK: https://github.com/Reword2356/twrp_device_motorola_owens
   # (required) who made your phone ? 
   MANUFACTURER: motorola
   # (required) recovery partiton = recovery, else (no recovery partition): boot 
